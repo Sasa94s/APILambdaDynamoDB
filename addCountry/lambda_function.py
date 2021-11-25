@@ -1,12 +1,9 @@
 import os
 import json
 import boto3
-import logging
+from logger import get_logger
 
-logging.basicConfig(level=logging.DEBUG)
-logger = logging.getLogger(__name__)
-
-
+logger = get_logger()
 TABLE = os.environ.get('TABLE')
 
 
