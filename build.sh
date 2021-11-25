@@ -30,4 +30,5 @@ fi
 
 # Begin script in case all parameters are correct
 echo "Compressing" "$moduleName" "module";
+mkdir -p ./dist
 cd ./"$moduleName" && zip -r ../dist/"$moduleName".zip . && cd ..;
