@@ -1,5 +1,4 @@
-# AWS - Lambda, API Gateway, DynamoDB
-In fulfillment of PI05 Training for _VOIS DE Enterprise Web Factory
+# AWS Developer - Lambda, API Gateway, DynamoDB
 
 ## Table of Contents
 
@@ -17,7 +16,6 @@ In fulfillment of PI05 Training for _VOIS DE Enterprise Web Factory
    5. [Deploy Code](#deploy-code)
 
 ## Task
-Linked to [STORM-1110 - AWS developer "IAM, S3, lambda, DynamoDB, SQS"](https://de.jira.agile.vodafone.com/browse/STORM-1110)
 
 ### Definition
 
